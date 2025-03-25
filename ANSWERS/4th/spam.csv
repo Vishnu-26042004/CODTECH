@@ -1,0 +1,7 @@
+label,text
+spam,"""Win a brand new car! Click here to claim your prize now!"""
+ham,"""Hey, are we still meeting for lunch tomorrow?"""
+spam,"""Congratulations! You've won a free vacation. Call now!"""
+ham,"""Can you send me the report by 5 PM?"""
+spam,"""Limited time offer! Buy one get one free. Visit our website."""
+ham,"""Don't forget to submit the assignment before the deadline."""
